@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundColor":"#333",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f60",
+    "navigationBarTitleText": "本地宝 ",
+    "navigationBarTextStyle":"white",
+    "backgroundTextStyle":"dark",
+    "enablePullDownRefresh":true
+  }
+}

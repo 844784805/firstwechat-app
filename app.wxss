@@ -1,0 +1,29 @@
+/**app.wxss**/
+
+/* 封装功能1：白色底色，间隔封装 */
+.mt20{
+  margin-top: 20rpx;
+}
+.bgw{
+  background: #fff;
+}
+
+/* 封装功能2：专门用于做间隔的类 */
+.divider{
+  height: 20rpx;
+  background-color: #f1f1f1;
+  box-shadow: 0 5rpx 5rpx rgba(0,0,0,.1) inset;
+}
+
+/* 封装功能3：细线边框封装*/
+.bdr{
+  position: relative;
+}
+.bdr::after{
+  content: "";
+  width: 1rpx;
+  height: 100%;
+  background: #ccc;
+  position: absolute;
+  right: 0;
+}

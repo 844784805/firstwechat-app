@@ -1,0 +1,57 @@
+<!--index.wxml-->
+<view class='slider'>
+  <swiper autoplay='{{true}}' indicator-dots='{{false}}' circular='{{true}}'>
+    <swiper-item>
+      <image src='//m.360buyimg.com/mobilecms/s750x366_jfs/t1/24427/36/13014/151988/5c9b87c6E0698fcec/a6a742e72f31893e.jpg!cr_1125x549_0_72!q70.jpg.dpg' mode='aspectFill' height="390"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='https://m.360buyimg.com/mobilecms/s750x366_jfs/t1/11487/25/13492/135811/5c99f021E953057c8/cb9df58e993aa67c.jpg!cr_1125x549_0_72!q70.jpg.dpg'  mode='aspectFill' height="390"></image>
+    </swiper-item>
+  </swiper>
+</view>
+<view class='index-nav bgw'>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-01.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-02(1).png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-03.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-04.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-05.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-06.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-07.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-08.png'></image>
+    <text>美食</text>
+  </navigator>
+  <navigator class='nav-item bdr'>
+    <image src='/assets/icons/grid-09.png'></image>
+    <text>美食</text>
+  </navigator>
+</view>
+<view class='index-enter bgw mt20'>
+  <navigator class='enter-item'>
+    <image src='/assets/images/link-01.png'></image>
+  </navigator>
+  <navigator class='enter-item'>
+    <image src='/assets/images/link-02.png'></image>
+  </navigator>
+</view>
