@@ -1,0 +1,48 @@
+/* pages/message/message.wxss */
+
+.message-box {
+  margin: 60rpx 20rpx;
+}
+
+.message-item {
+  padding: 20rpx 30rpx;
+  border: 1px solid #eee;
+  border-radius: 10rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.message-title {
+  font-size: 20px;
+  margin-bottom: 20rpx;
+}
+
+.message-date {
+  font-size: 16px;
+  color: #ccc;
+  padding-bottom: 19rpx;
+  border-bottom: 1rpx solid #ccc;
+  margin-bottom: 20rpx;
+}
+
+.message-box image {
+  width: 650rpx;
+  height: 300rpx;
+  margin-bottom: 25rpx;
+}
+
+.message-desc {
+  font-size: 18px;
+  padding-bottom: 19rpx;
+  margin-bottom: 20rpx;
+  border-bottom: 1rpx solid #ccc;
+}
+
+.message-read {
+  font-size: 14px;
+  color: #666;
+}
+
+page{
+  background: #f1f1f1;
+}

@@ -10,7 +10,7 @@
   </swiper>
 </view>
 <view class='index-nav bgw'>
-  <navigator class='nav-item bdr'>
+  <navigator class='nav-item bdr' url='/pages/shopList/shopList'>
     <image src='/assets/icons/grid-01.png'></image>
     <text>美食</text>
   </navigator>

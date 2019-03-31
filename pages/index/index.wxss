@@ -50,5 +50,5 @@
   height: 178rpx;
 }
 page{
-  background: #ccc;
+  background: #f1f1f1;
 }

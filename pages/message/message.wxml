@@ -1,0 +1,20 @@
+<!--pages/message/message.wxml-->
+<view class='message-box'>
+  <navigator class='message-item bgw'>
+    <text class='message-title'>标题111</text>
+    <text class='message-date'>2017-12-05</text>
+    <image src='/assets/images/message.jpg'mode="aspectFill"></image>
+    <text class='message-desc'>越努力，越幸运~</text>
+    <text class='message-read arrow'>查看详情</text>
+  </navigator>
+</view>
+
+<view class='message-box'>
+  <navigator class='message-item bgw'>
+    <text class='message-title'>标题111</text>
+    <text class='message-date'>2017-12-05</text>
+    <image src='/assets/images/message.jpg'mode="aspectFill"></image>
+    <text class='message-desc'>越努力，越幸运~</text>
+    <text class='message-read arrow'>查看详情</text>
+  </navigator>
+</view>
