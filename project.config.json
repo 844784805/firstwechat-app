@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -13,7 +13,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.4",
-	"appid": "wx9443927f4e595247",
+	"appid": "wx726363a8ce89be13",
 	"projectname": "wechat-test01",
 	"debugOptions": {
 		"hidedInDevtools": []
@@ -37,13 +37,20 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 1,
 			"list": [
 				{
 					"id": 0,
 					"name": "单页调试",
 					"pathName": "pages/contact/contact",
 					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "单页调试",
+					"pathName": "pages/shopList/shopList",
+					"query": "1",
 					"scene": null
 				}
 			]

@@ -28,4 +28,5 @@
   <navigator class='cell-item arrow'>
     <text>设置</text>
   </navigator>
+  <!-- <button bindtap="buttonClick">点我</button> -->
 </view>

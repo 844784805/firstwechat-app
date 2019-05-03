@@ -62,5 +62,8 @@ Page({
    */
   onShareAppMessage: function () {
 
+  },
+  buttonClick:function(){
+    console.log(222);
   }
 })

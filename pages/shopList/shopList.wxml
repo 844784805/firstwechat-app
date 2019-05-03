@@ -1,2 +1,4 @@
 <!--pages/shopList/shopList.wxml-->
-<text>pages/shopList/shopList.wxml</text>
+<text wx:for='{{shops}}' wx:key='id'>
+{{item.name}}
+</text>
